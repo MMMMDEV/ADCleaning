@@ -73,6 +73,7 @@ export default function ContactUs() {
             <h2>Contact</h2>
             <h3>admaidservice@gmail.com</h3>
             <h3>615-821-4972</h3>
+            <h3>615-752-8361</h3>
           </div>
           {/* <div className="right-bottom">
             <img
